@@ -1,4 +1,5 @@
 STUDENT ID: 11339654
+
 **Task 1**
 The processArray function uses the map method to transform each number in the input array, it squares even numbers and triples odd numbers. This results in a new array of numbers with the modified values.
 
